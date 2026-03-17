@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#Database files
+/data/
+/journal/
+/*.log
+
+# MongoDB
+*.yarn.lock
+
